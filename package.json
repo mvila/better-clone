@@ -1,6 +1,6 @@
 {
   "name": "better-clone",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Creates a clone of value",
   "keywords": [
     "object",
